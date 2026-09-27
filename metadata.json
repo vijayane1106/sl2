@@ -1,0 +1,6 @@
+{
+  "name": "SMART LEARN",
+  "description": "SMART LEARN - Real-time interactive live MCQ assessment, proctoring, OTP teacher authentication, and comprehensive super user monitoring portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
